@@ -1,32 +1,44 @@
-# AI Learning Journey
+# 🤖 AI Learning Journey
+
+Welcome to my AI learning journey!
 
 ## 👋 About Me
 
 Hi, I'm Muhammad Hammad Iqbal.
 
-I am a BS Artificial Intelligence student from Pakistan.
+🎓 BS Artificial Intelligence Student from Pakistan.
 
-Currently learning:
+I am currently learning:
 - Python
+- Git & GitHub
 - Machine Learning
 - Generative AI
 
-## Goal
+## 🎯 Goal
 
 Become a Machine Learning & Generative AI Engineer.
 
-## Started On
-
-August 2026
-## 📅 30-Day Progress
-
-- [ ] Week 1: Python & Data Analysis
-- [ ] Week 2: Machine Learning
-- [ ] Week 3: Generative AI
-- [ ] Week 4: AI Projects & Portfolio
 ## 🛠️ Tech Stack
 
 - Python
 - Git
 - GitHub
 - VS Code
+
+## 📅 30-Day Roadmap
+
+- [x] Git & GitHub Setup
+- [ ] Python
+- [ ] NumPy
+- [ ] Pandas
+- [ ] Data Visualization
+- [ ] Machine Learning
+- [ ] Generative AI
+
+## 📂 Projects
+
+Projects will be added as I continue learning.
+
+## 📫 Connect
+
+GitHub: @hammad-ai07
