@@ -1,0 +1,24 @@
+students = ["Hammad", "Ali", "Ahmed", "Usman", "Hamza"]
+
+students.append("Zain")
+students.pop(2)
+students[3] = "Umar"
+
+print(len(students))
+print("Hammad" in students)
+
+students.sort()
+print(students)
+
+students.reverse()
+print(students)
+
+print(students[:3])
+print(students[-2:])
+
+students_tuple = tuple(students)
+
+print(students[0])
+print(students[-1])
+print(students[2])
+print(students)
