@@ -1,0 +1,34 @@
+import numpy as np
+
+marks = np.array([
+    [80, 75, 90],
+    [65, 88, 72],
+    [92, 95, 89],
+    [55, 60, 58],
+    [85, 78, 91]
+])
+
+print("Marks:")
+print(marks)
+
+student_total = marks.sum(axis=1)
+print("Student totals:", student_total)
+
+student_average = marks.mean(axis=1)
+print("Student averages:", student_average)
+
+subject_average = marks.mean(axis=0)
+print("Subject averages:", subject_average)
+
+student_result = np.where(
+    student_average >= 80,
+    "Excellent",
+    "Needs Improvement"
+)
+print("Result of each student:", student_result)
+
+subject_highest = marks.max(axis=0)
+print("Highest marks in each subject:", subject_highest)
+
+overall_highest = marks.max()
+print("Overall highest:", overall_highest)
